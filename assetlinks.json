@@ -1,9 +1,0 @@
-[{
-    "relation": ["delegate_permission/common.handle_all_urls"],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "com.example.socului_delivery_app",
-      "sha256_cert_fingerprints":
-      ["DB:EB:73:02:89:BE:ED:60:16:74:D0:F3:24:3E:25:24:A0:A6:5A:4F:3A:A0:06:03:8A:20:C7:85:73:DF:76:EC"]
-    }
-  }]
